@@ -1,4 +1,4 @@
-# Human-like_Pathfinding_AI
+# Deep Learning version is impossible to find path
 
 This repository contains python code for data preprocessing and jupyter notebook for machine learning.
 
