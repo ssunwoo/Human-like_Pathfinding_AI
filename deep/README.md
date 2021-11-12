@@ -1,6 +1,6 @@
-# Deep Learning version is impossible to find path
+### Deep Learning version is impossible to find path
 
-This repository contains python code for data preprocessing and jupyter notebook for machine learning.
+This folder contains python code for data preprocessing and jupyter notebook for machine learning.
 
 The dataset used is the [Geolife GPS Trajectories](https://www.microsoft.com/en-us/download/details.aspx?id=52367)
 
